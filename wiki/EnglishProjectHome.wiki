@@ -1,6 +1,6 @@
 Magento Traditional Chinese Translation Project
 
-Project begins： 02/24/09
+Project begins： 02/24/09 Using Magento version: 1.2.x
 
 Welcome everyone to join the project.
 
