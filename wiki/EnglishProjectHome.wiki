@@ -8,11 +8,11 @@ Welcome everyone to join the project.
 
 Before we start,
 
-Do you know how to use SVN and also have an googlecode account?
+Do you know how to use SVN and also have an Google account?
 
 *If your answer is yes:*
 
-Please send an email to the project manager requesting to be a svn member. In the email, please include your googlecode account name. You will receive a password to access the project respo.
+Please send an email to the [mailto:rogerger.py@gmail.com project manager] requesting to be a svn member. In the email, please include your googlecode account name. You will receive a password to access the project repo.
 
 To checkout out the repo:
 
