@@ -22,4 +22,4 @@ You will be prompted to enter the project password
 
 *If your answer is no:*
 
-Please send an email to the project manager requesting to be a csv member. Please check out the wiki page for the csv files we are currently working on:
+Please send an email to the project manager requesting to be a csv member. Please check out the [http://code.google.com/p/magento-zh/wiki/CSVStatus wiki page] for the csv files we are currently working on:
