@@ -1,0 +1,6 @@
+#summary The following are some commonly used words in translation
+
+= Term =
+ newsletter 電子報
+
+ newsgroup 新聞群組
