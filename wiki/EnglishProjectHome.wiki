@@ -2,6 +2,14 @@ Magento Traditional Chinese Translation Project
 
 Project begins： 02/24/09 Using Magento version: 1.2.x
 
+Currently there are two different [http://www.magentocommerce.com/langs/list/?locale_id=29&theme=1&version=12&show=Submit translation methods]:
+
+1.inline
+
+2.string
+
+We are using the second method (CSV).
+
 Welcome everyone to join the project.
 
 ==How do I join the project?==
