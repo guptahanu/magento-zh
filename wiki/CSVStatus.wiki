@@ -1,0 +1,37 @@
+#summary Current CSV Translation Status
+
+= Current CSV files =
+
+{{{
+ 44127 Mage_Adminhtml.csv
+   332 Mage_Backup.csv
+  4327 Mage_Catalog.csv
+   608 Mage_CatalogRule.csv
+   530 Mage_CatalogSearch.csv
+  8186 Mage_Checkout.csv
+   124 Mage_Cms.csv
+  1954 Mage_Core.csv
+  8538 Mage_Customer.csv Assigned to rogerger.py   progress:40%
+   124 Mage_Datafeed.csv
+   362 Mage_Directory.csv
+  1884 Mage_Eav.csv
+    38 Mage_Giftcert.csv
+    36 Mage_GoogleCheckout.csv
+  3619 Mage_Install.csv
+  1324 Mage_Newsletter.csv
+  4075 Mage_Page.csv
+   722 Mage_Payment.csv
+  1518 Mage_Paypal.csv
+   192 Mage_Poll.csv
+   134 Mage_Rating.csv
+  2015 Mage_Review.csv
+   762 Mage_Rule.csv
+  2798 Mage_Sales.csv
+   792 Mage_SalesRule.csv
+   418 Mage_SearchLucene.csv
+   463 Mage_Shipping.csv
+  2000 Mage_Tag.csv
+    80 Mage_Tax.csv
+  3640 Mage_Usa.csv
+  1703 Mage_Wishlist.csv
+}}}
