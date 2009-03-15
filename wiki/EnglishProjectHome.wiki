@@ -1,0 +1,24 @@
+Magento Traditional Chinese Translation Project
+Project begins： 02/24/09
+
+Welcome everyone to join the project.
+
+==How do I join the project?==
+
+Before we start,
+
+Do you know how to use SVN and also have an googlecode account?
+
+*If your answer is yes:*
+
+Please send an email to the project manager requesting to be a svn member. In the email, please include your googlecode account name. You will receive a password to access the project respo.
+
+To checkout out the repo:
+
+    svn co --username <your googlecode account> https://magento-zh.googlecode.com/svn/trunk <target directory> 
+
+You will be prompted to enter the project password
+
+*If your answer is no:*
+
+Please send an email to the project manager requesting to be a csv member. Please check out the wiki page for the csv files we are currently working on:
