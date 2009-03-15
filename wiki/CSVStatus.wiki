@@ -38,4 +38,4 @@
 
 [http://code.google.com/p/magento-zh/source/browse/#svn/trunk/app/locale/zh_TW Browse CSV]
 
-If you use MS Excel to open these files(in UTF-8 Format), you will need to create an new spreadsheet and do data input. (set the format to delimited and comma separated)
+If you use MS Excel to open these files(in UTF-8 Format), you will need to create an new spreadsheet and do a data input. (set the format to delimited and comma separated)
