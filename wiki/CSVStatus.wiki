@@ -11,7 +11,7 @@
   8186 Mage_Checkout.csv
    124 Mage_Cms.csv
   1954 Mage_Core.csv
-  8538 Mage_Customer.csv Assigned to rogerger.py   progress:40%
+  8538 Mage_Customer.csv Assigned to rogerger.py   progress:95%
    124 Mage_Datafeed.csv
    362 Mage_Directory.csv
   1884 Mage_Eav.csv
