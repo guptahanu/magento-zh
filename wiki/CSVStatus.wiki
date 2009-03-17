@@ -3,7 +3,7 @@
 = Current CSV files =
 
 {{{
- 44127 Mage_Adminhtml.csv Assigned to rogerger.py   progress:20%
+ 44127 Mage_Adminhtml.csv Assigned to rogerger.py   progress:42%
    332 Mage_Backup.csv
   4327 Mage_Catalog.csv
    608 Mage_CatalogRule.csv
