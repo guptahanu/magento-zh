@@ -1,119 +1,119 @@
-SKU,SKU
-Category,Category
-Please select static block ...,Please select static block ...
-Static block and products,Static block and products
-Go to Home Page,Go to Home Page
-Images,Images
-Small Image,Small Image
-Products only,Products only
-Meta Keywords,Meta Keywords
-Data integrity: No header row found for attribute,Data integrity: No header row found for attribute
-Page Title,Page Title
-Status,Status
-Description,Description
-Cannot retrieve current category object,Cannot retrieve current category object
-Tier Price,Tier Price
-Price,Price
-Meta Title,Meta Title
-Static block only,Static block only
-Visibility,Visibility
-Thumbnail,Thumbnail
-Filter model name must be declared,Filter model name must be declared
-Filter must be as object. Set correct filter please,Filter must be as object. Set correct filter please
-Base Image,Base Image
-Prices,Prices
-Grid,Grid
-Is Qty Decimal,Is Qty Decimal
-Manufacturer,Manufacturer
-Page Layout,Page Layout
-Best Value,Best Value
-Name,Name
-Invalid Attribute Requested,Invalid Attribute Requested
-Meta Description,Meta Description
-Short Description,Short Description
-Is Anchor,Is Anchor
-List,List
-Filters must be as array,Filters must be as array
-Meta Information,Meta Information
-No layout updates,No layout updates
-General,General
-Compare Products List,Compare Products List
-Invalid block: %s,Invalid block: %s
-CMS Block,CMS Block
-"Attribute source ""%s"" not found","Attribute source ""%s"" not found"
-All,All
-Qty,Qty
-Attribute model not defined,Attribute model not defined
-Weight,Weight
-Color,Color
-URL key,URL key
-Image,Image
-Choose option...,Choose option...
-Is Active,Is Active
-Cost,Cost
-Image Gallery,Image Gallery
-Display Mode,Display Mode
-"Attribute saver ""%s"" not found","Attribute saver ""%s"" not found"
-Home,Home
-Tax Class,Tax Class
-Minimal Price,Minimal Price
-Special Price:,Special Price:
-Add to Compare,Add to Compare
-Clear All Items,Clear All Items
-Availability: In stock. Ships within 24hours.,Availability: In stock. Ships within 24hours.
-Next,Next
-Quick Overview,Quick Overview
-Add to My Wishlist,Add to My Wishlist
-Add Items to Cart,Add Items to Cart
-Related Products,Related Products
-See all %s,See all %s
-Best Selling Products,Best Selling Products
-Product Attribute Specs,Product Attribute Specs
-Prev,Prev
-Choose an Option...,Choose an Option...
-View as,View as
-This bundle is out of stock.,This bundle is out of stock.
-Shopping Options,Shopping Options
-Compare Products,Compare Products
-Product Description,Product Description
-Remove This Item,Remove This Item
-Shop by,Shop by
-More Views,More Views
-There are no products matching the selection.,There are no products matching the selection.
-Remove Product,Remove Product
-Product Name,Product Name
-Availability: Out of stock.,Availability: Out of stock.
-Page:,Page:
-You have no items to compare.,You have no items to compare.
-Buy %s for %s each,Buy %s for <strong>%s each</strong>
-Compare Items,Compare Items
-Zoom In,Zoom In
-Add to Cart,Add to Cart
-No options of this product are available.,No options of this product are available.
-Zoom Out,Zoom Out
-Items %s to %s of %s total,Items <strong>%s</strong> to <strong>%s</strong> of <strong>%s</strong> total
-Regular Price:,Regular Price:
-Print This Page,Print This Page
-Old Price:,Old Price:
-Compare Products - %d Items,"Compare Products <span class=""count"">- %d Items</span>"
-Sort by,Sort by
-Availability: In stock. Ships within 24 hours.,Availability: In stock. Ships within 24 hours.
-Add to Wishlist,Add to Wishlist
-View Details,View Details
-Browse By,Browse By
-Out of Stock,Out of Stock
-Check items to add to the cart or select all.,"Check items to add to the cart or <a href=""#"" onclick=""selectAllRelated();return false;"">select all</a>."
-Show,Show
-per page,per page
-Close Window,Close Window
-Set Ascending Direction,Set Ascending Direction
-Cross-sell Products,Cross-sell Products
-Learn More,Learn More
-Category Navigation:,Category Navigation:
-Set Descending Direction,Set Descending Direction
-You may also be interested in the following product(s),You may also be interested in the following product(s)
-Additional Information,Additional Information
-Previous,Previous
-Currently Shopping by,Currently Shopping by
-OR,OR
-%s Item(s),%s Item(s)
+"SKU","SKU"
+"Category","目錄"
+"Please select static block ...","請選擇靜態塊"
+"Static block and products","靜態塊與產品"
+"Go to Home Page","回到主頁"
+"Images","圖像"
+"Small Image","小圖像"
+"Products only","只有產品"
+"Meta Keywords","META 關鍵字"
+"Data integrity: No header row found for attribute","數據完整性：屬性無標題行"
+"Page Title","頁面標題"
+"Status","狀態"
+"Description","描述"
+"Cannot retrieve current category object","無法獲取當前目錄物件"
+"Tier Price","層價格"
+"Price","價格"
+"Meta Title","Meta 標題"
+"Static block only","只顯示靜態塊"
+"Visibility","可見"
+"Thumbnail","縮圖"
+"Filter model name must be declared","過濾產品型號必須申明"
+"Filter must be as object. Set correct filter please","過濾必須是物件。請設置正確的過濾"
+"Base Image","主圖像"
+"Prices","價格"
+"Grid","網格"
+"Is Qty Decimal","數量使用十進制"
+"Manufacturer","製造商"
+"Page Layout","頁面佈局"
+"Best Value","最佳價值"
+"Name","名字"
+"Invalid Attribute Requested","無效的屬性要求"
+"Meta Description","Meta 描述"
+"Short Description","簡短描述"
+"Is Anchor","Is Anchor"
+"List","列表"
+"Filters must be as array","過濾必須是陣列"
+"Meta Information","Meta 訊息"
+"No layout updates","沒有佈局更新"
+"General","一般"
+"Compare Products List","比較產品列表"
+"Invalid block: %s","無效的區塊： %s"
+"CMS Block","CMS 模塊"
+"Attribute source ""%s"" not found","無法找到屬性源“ “%s”"
+"All","全部"
+"Qty","數量"
+"Attribute model not defined","屬性模型沒有定義"
+"Weight","重量"
+"Color","顏色"
+"URL key","URL key"
+"Image","圖像"
+"Choose option...","選擇選項..."
+"Is Active","已開啟"
+"Cost","成本"
+"Image Gallery","圖像廊"
+"Display Mode","顯示模式"
+"Attribute saver ""%s"" not found","屬性程序 “%s” 沒有發現"
+"Home","首頁"
+"Tax Class","稅別"
+"Minimal Price","最低價格"
+"Special Price:","特別價格"
+"Add to Compare","加入比較"
+"Clear All Items","清除所有項目"
+"Availability: In stock. Ships within 24hours.","貨存狀況：庫存。在24小時內寄出。"
+"Next","下一個"
+"Quick Overview","快速總攬"
+"Add to My Wishlist","加入我的收藏中"
+"Add Items to Cart","增加商品至購物車"
+"Related Products","相關商品"
+"See all %s","查看所有的 %s"
+"Best Selling Products","最暢銷商品"
+"Product Attribute Specs","商品屬性規格"
+"Prev","前頁"
+"Choose an Option...","選擇一個選項..."
+"View as","排序"
+"This bundle is out of stock.","這束已無存貨。"
+"Shopping Options","購物選項"
+"Compare Products","比較產品"
+"Product Description","產品描述"
+"Remove This Item","移除此項目"
+"Shop by","購物以…"
+"More Views","更多的意見"
+"There are no products matching the selection.","沒有產品符合選擇項目。"
+"Remove Product","移除產品"
+"Product Name","產品名稱"
+"Availability: Out of stock.","貨存狀況：缺貨。"
+"Page:","頁數："
+"You have no items to compare.","您沒有要比較的物品。"
+"Buy %s for %s each","購買 %s 每樣 %s"
+"Compare Items","比較商品"
+"Zoom In","放大"
+"Add to Cart","添加到購物車"
+"No options of this product are available.","此產品無其他選項"
+"Zoom Out","縮小"
+"Items %s to %s of %s total","商品 %s 至 %s ，共 %s 件"
+"Regular Price:","一般價格："
+"Print This Page","列印此頁"
+"Old Price:","舊價格:"
+"Compare Products - %d Items","商品比較 - %d 個物品"
+"Sort by","排序方式"
+"Availability: In stock. Ships within 24 hours.","存貨狀況：在庫。在24小時內寄出。"
+"Add to Wishlist","加入我的收藏中"
+"View Details","查看詳細信息"
+"Browse By","瀏覽"
+"Out of Stock","缺貨"
+"Check items to add to the cart or select all.","選擇您要加入購物車的商品，或全選。"
+"Show","顯示"
+"per page","每頁"
+"Close Window","關閉窗口"
+"Set Ascending Direction","設置排序為遞增"
+"Cross-sell Products","交叉銷售產品"
+"Learn More","了解更多"
+"Category Navigation:","分類瀏覽"
+"Set Descending Direction","設置排序為遞減"
+"You may also be interested in the following product(s)","您可能也對以下產品有興趣"
+"Additional Information","其他信息"
+"Previous","前面的"
+"Currently Shopping by","目前購物以"
+"OR","或"
+"%s Item(s)","%s 樣物品"
