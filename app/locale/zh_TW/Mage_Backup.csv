@@ -1,4 +1,4 @@
-Cannot read backup file,Cannot read backup file
-"File compressed with Zlib, but this extension is not installed on server","File compressed with Zlib, but this extension is not installed on server"
-Backup file doesn't exist,Backup file doesn't exist
-Wrong order of creation for new backup,Wrong order of creation for new backup
+"Cannot read backup file","無法讀取備份檔"
+"File compressed with Zlib, but this extension is not installed on server","檔案使用 Zlib 壓縮，但是此套件並未安裝於伺服器"
+"Backup file doesn't exist","備份檔不存在"
+"Wrong order of creation for new backup","新備份的建立次序錯誤"
