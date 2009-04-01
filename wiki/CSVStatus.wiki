@@ -4,11 +4,11 @@
 
 {{{
  44127 Mage_Adminhtml.csv Assigned to rogerger.py   progress:80%
-   332 Mage_Backup.csv
+   332 Mage_Backup.csv     Assigned to rogerger.py   progress:100%
   4327 Mage_Catalog.csv Assigned to ellen progress:100%
-   608 Mage_CatalogRule.csv
-   530 Mage_CatalogSearch.csv
-  8186 Mage_Checkout.csv
+   608 Mage_CatalogRule.csv  Assigned to rogerger.py progress 100%
+   530 Mage_CatalogSearch.csv  Assigned to rogerger.py progress 100%
+  8186 Mage_Checkout.csv   Assigned to rogerger.py progress 100%
    124 Mage_Cms.csv
   1954 Mage_Core.csv
   8538 Mage_Customer.csv Assigned to rogerger.py   progress:95%
