@@ -1,154 +1,154 @@
-Proceed to Checkout,Proceed to Checkout
-Checkout method,Checkout method
-Please select shipping methods for all addresses,Please select shipping methods for all addresses
-Shipping Methods,Shipping Methods
-Payment method is not defined,Payment method is not defined
-State/Province,State/Province
-Please specify the product option(s),Please specify the product option(s)
-Edit Shipping Address,Edit Shipping Address
-Order Success,Order Success
-Create Billing Address,Create Billing Address
-Checkout,Checkout
-Invalid data,Invalid data
-Edit Address,Edit Address
-Order Review,Order Review
-Billing Information,Billing Information
-Place Order,Place Order
-Change Billing Address,Change Billing Address
-Select Addresses,Select Addresses
-Shipping Method,Shipping Method
-Indefinite product type,Indefinite product type
-Cannot remove item,Cannot remove item
-Total for this address,Total for this address
-Product does not exist,Product does not exist
-Country,Country
-Clear,Clear
-Shipping Information,Shipping Information
-Create Shipping Address,Create Shipping Address
-Edit Billing Address,Edit Billing Address
-Some of the products you requested are not available in the desired quantity,Some of the products you requested are not available in the desired quantity
-Some of the products you requested are unavailable,Some of the products you requested are unavailable
-My Cart (%d item),My Cart (%d item)
-Cannot update shopping cart,Cannot update shopping cart
-Checkout with Multiple Addresses,Checkout with Multiple Addresses
-Ship to Multiple Addresses,Ship to Multiple Addresses
-My Cart,My Cart
-Review Order,Review Order
-The item(s) marked in red are not available in the desired quantity. Please update the quantity of the item(s).,The item(s) marked in red are not available in the desired quantity. Please update the quantity of the item(s).
-This product is out of stock,This product is out of stock
-Payment Information,Payment Information
-Requested quantity is not available,Requested quantity is not available
-Cannot move item to wishlist,Cannot move item to wishlist
-My Cart (%d items),My Cart (%d items)
-There is already a customer registered using this email address,There is already a customer registered using this email address
-Send to,Send to
-Remove Item,Remove Item
-"Based on your selection, you may be interested in the following items:","Based on your selection, you may be interested in the following items:"
-Thank you for your purchase!,Thank you for your purchase!
-&laquo; Back to Select Addresses,&laquo; Back to Select Addresses
-Submitting order information...,Submitting order information...
-Get a Quote,Get a Quote
-Are you sure you would like to remove this item from the shopping cart?,Are you sure you would like to remove this item from the shopping cart?
-Fax,Fax
-Loading next step...,Loading next step...
-Company,Company
-Apply Coupon,Apply Coupon
-Already registered?,Already registered?
-Subtotal,Subtotal
-Register,Register
-Continue to Billing Information,Continue to Billing Information
-Your order # is: %s,Your order # is: %s
-Select Shipping Method,Select Shipping Method
-Update Shopping Cart,Update Shopping Cart
-Select Address,Select Address
-Telephone,Telephone
-Shipping method has not been selected yet,Shipping method has not been selected yet
-You have no items in your shopping cart.,You have no items in your shopping cart.
-&laquo; Back to Shopping Cart,&laquo; Back to Shopping Cart
-Confirm Password,Confirm Password
-Estimate Shipping and Tax,Estimate Shipping and Tax
-Last added items,Last added items
-Log in below to take advantage of Express Checkout:,Log in below to take advantage of Express Checkout:
-Continue to Success,Continue to Success
-Billing Address,Billing Address
-Go to Cart,Go to Cart
-Select a shipping address from your address book or enter a new address.,"Select a shipping address from your address book or enter a <a href=""#"" onclick=""shipping.newAddress(true); return false;"">new address</a>."
-You will receive an order confirmation email with details of your order and a link to track its progress.,You will receive an order confirmation email with details of your order and a link to track its progress.
-Your Checkout Progress,Your Checkout Progress
-&laquo; Back to Billing Information,&laquo; Back to Billing Information
-&laquo; Back to Shipping Information,&laquo; Back to Shipping Information
-You may check out as a guest or register with us for future convenience:,You may check out as a guest or register with us for future convenience:
-Continue Shopping,Continue Shopping
-Zip/Postal Code,Zip/Postal Code
-Update Qty &amp; Addresses,Update Qty &amp; Addresses
-Product Name,Product Name
-Your order number is %s,Your order number is %s
-* Required Fields,* Required Fields
-Items,Items
-Continue to Shipping Information,Continue to Shipping Information
-Ship to this address,Ship to this address
-"Sorry, no quotes are available for this order at this time.","Sorry, no quotes are available for this order at this time."
-Please enter a valid zip code. For example 90602 or 90602-1234.,Please enter a valid zip code. For example 90602 or 90602-1234.
-Remove Product,Remove Product
-Last Name,Last Name
-Back,Back
-Change Payment Method,Change Payment Method
-Grand Total:,Grand Total:
-Shipping to,Shipping to
-Address %s of %s,"Address <span class=""shipment-count"">%s</span> of %s"
-We are processing your order and you will soon receive an email with details of the order. Once the order has shipped you will receive another email with a link to track its progress.,We are processing your order and you will soon receive an email with details of the order.<br/>Once the order has shipped you will receive another email with a link to track its progress.
-Change Shipping Method,Change Shipping Method
-Shopping Cart,Shopping Cart
-Forgot your password?,Forgot your password?
-Enter your destination to get a shipping estimate.,Enter your destination to get a shipping estimate.
-My Account,My Account
-Street Address,Street Address
-Shipping Address,Shipping Address
-Select a billing address from your address book or enter a new address.,"Select a billing address from your address book or enter a <a href=""#"" onclick=""billing.newAddress(true); return false;"">new address</a>."
-Continue to Overview,Continue to Overview
-"Please <a href=""%s"">continue shopping</a>.","Please <a href=""%s"">continue shopping</a>."
-Edit Your Cart,Edit Your Cart
-You have no items in your cart.,You have no items in your cart.
-Easy access to your order history and status,Easy access to your order history and status
-Register and save time!,Register and save time!
-Fast and easy check out,Fast and easy check out
-Use Billing Address,Use Billing Address
-Add to Wishlist,Add to Wishlist
-"My Cart - <a href=""%s"">%d item(s)</a>","My Cart <span class=""count"">- <a href=""%s"">%d item(s)</a></span>"
-Move to Wishlist,Move to Wishlist
-Default Shipping,Default Shipping
-Checkout as a Guest or Register,Checkout as a Guest or Register
-Qty,Qty
-Enter your coupon code if you have the one.,Enter your coupon code if you have the one.
-Done,Done
-Close,Close
-City,City
-Card Verification Number Visual Reference,Card Verification Number Visual Reference
-First Name,First Name
-Unit Price,Unit Price
-"Please select region, state or province","Please select region, state or province"
-Product,Product
-Payment Method,Payment Method
-Price,Price
-Street Address 2,Street Address 2
-Address,Address
-Password,Password
-Update Total,Update Total
-Change Shipping Address,Change Shipping Address
-Email Address,Email Address
-Edit,Edit
-Add to Cart,Add to Cart
-Edit Items,Edit Items
-Remove,Remove
-Continue,Continue
-Forgot an Item?,Forgot an Item?
-Shopping Cart is Empty,Shopping Cart is Empty
-Login,Login
-Add New Address,Add New Address
-Default Billing,Default Billing
-Enter a New Address,Enter a New Address
-Checkout as Guest,Checkout as Guest
-Discount Codes,Discount Codes
-Select State/Province...,Select State/Province...
-Continue to Review Your Order,Continue to Review Your Order
-Your order has been received,Your order has been received
+"Proceed to Checkout","前進至結帳"
+"Checkout method","結帳方式"
+"Please select shipping methods for all addresses","請選擇所有地址的寄送方式"
+"Shipping Methods","寄送方式"
+"Payment method is not defined","付款方式未定義"
+"State/Province","州/省"
+"Please specify the product option(s)","請指定商品選項"
+"Edit Shipping Address","編輯寄送地址"
+"Order Success","訂單成功"
+"Create Billing Address","建立收款地址"
+"Checkout","結帳"
+"Invalid data","無效的資料"
+"Edit Address","編輯地址"
+"Order Review","訂單審查"
+"Billing Information","收款資料"
+"Place Order","下單"
+"Change Billing Address","更改收款地址"
+"Select Addresses","選擇地址"
+"Shipping Method","寄送方式"
+"Indefinite product type","未定義的商品種類"
+"Cannot remove item","無法刪除商品"
+"Total for this address","這個地址的總額為"
+"Product does not exist","商品不存在"
+"Country","國家"
+"Clear","清除"
+"Shipping Information","寄送資料"
+"Create Shipping Address","建立寄送地址"
+"Edit Billing Address","編輯收款地址"
+"Some of the products you requested are not available in the desired quantity","部份您所訂購的商品無法適用於您指定的數量"
+"Some of the products you requested are unavailable","無法訂購您部份的商品"
+"My Cart (%d item)","我的購物車 (%d 項)"
+"Cannot update shopping cart","無法更新購物車"
+"Checkout with Multiple Addresses","多地址結帳"
+"Ship to Multiple Addresses","寄送至多個地址"
+"My Cart","我的購物車"
+"Review Order","審核您的訂單"
+"The item(s) marked in red are not available in the desired quantity. Please update the quantity of the item(s).","紅色標記的商品無法適用您指定的數量。請更新商品的訂購數量。"
+"This product is out of stock","此產品目前缺貨"
+"Payment Information","付款資料"
+"Requested quantity is not available","無法滿足您要求的數量"
+"Cannot move item to wishlist","無法搬移商品至收藏"
+"My Cart (%d items)","我的購物車 (%d 項)"
+"There is already a customer registered using this email address","電子郵件信箱重複，該信箱已有用戶"
+"Send to","發送給"
+"Remove Item","移除商品"
+"Based on your selection, you may be interested in the following items:","您也許會對以下商品有興趣："
+"Thank you for your purchase!","感謝您的光顧！"
+"&laquo; Back to Select Addresses","&laquo; 返回選擇地址"
+"Submitting order information...","遞交訂單資料"
+"Get a Quote","尋價"
+"Are you sure you would like to remove this item from the shopping cart?","您確定要從購物車中移除此商品嗎？"
+"Fax","傳真"
+"Loading next step...","讀取下一步...."
+"Company","公司"
+"Apply Coupon","使用折價卷"
+"Already registered?","已註冊？"
+"Subtotal","小計"
+"Register","註冊"
+"Continue to Billing Information","繼續至付款資料"
+"Your order # is: %s","您的訂單號為： %s"
+"Select Shipping Method","選擇寄送方式"
+"Update Shopping Cart","更新購物車"
+"Select Address","選擇地址"
+"Telephone","電話"
+"Shipping method has not been selected yet","寄送方式尚未選擇"
+"You have no items in your shopping cart.","您購物車中沒有任何商品"
+"&laquo; Back to Shopping Cart","&laquo; 返回購物車"
+"Confirm Password","確認密碼"
+"Estimate Shipping and Tax","估計的運費和稅"
+"Last added items","最後添加商品"
+"Log in below to take advantage of Express Checkout:","於下面欄登入後能快速結帳"
+"Continue to Success","繼續至成功頁面"
+"Billing Address","付款地址"
+"Go to Cart","至購物車"
+"Select a shipping address from your address book or enter a new address.","從您的地址簿中選擇一個寄送地址或是輸入一個新地址"
+"You will receive an order confirmation email with details of your order and a link to track its progress.","您將會收到一封訂單確認信，其中內含了所有詳細資料和訂單查詢連結。"
+"Your Checkout Progress","您的結帳進度"
+"&laquo; Back to Billing Information","&laquo; 回到付款資料"
+"&laquo; Back to Shipping Information","&laquo; 回到寄送資料"
+"You may check out as a guest or register with us for future convenience:","您可以直接結帳或是註冊為我們的客戶以方便下次購物"
+"Continue Shopping","繼續購物"
+"Zip/Postal Code","郵遞區號"
+"Update Qty &amp; Addresses","更新數量 &amp; 地址"
+"Product Name","商品名稱"
+"Your order number is %s","您的訂單號為 %s"
+"* Required Fields","* 必填欄位"
+"Items","項"
+"Continue to Shipping Information","繼續至寄送資料"
+"Ship to this address","寄送至此地址"
+"Sorry, no quotes are available for this order at this time.","抱歉，此訂單目前無法決定價錢"
+"Please enter a valid zip code. For example 90602 or 90602-1234.","請輸入一個合法的郵遞區號。例： 90602 或是 90602-1234"
+"Remove Product","移除商品"
+"Last Name","姓"
+"Back","返回"
+"Change Payment Method","變更付款方式"
+"Grand Total:","總額："
+"Shipping to","寄送至"
+"Address %s of %s","地址 <span class=""shipment-count"">%s</span> 從 %s"
+"We are processing your order and you will soon receive an email with details of the order. Once the order has shipped you will receive another email with a link to track its progress.","我們正在處理您的訂單。您將會收到一封郵件內含訂單的詳細資料。訂單寄出後您將會收到另一封信件來查詢訂單進度。"
+"Change Shipping Method","變更寄送方式"
+"Shopping Cart","購物車"
+"Forgot your password?","忘了您的密碼？"
+"Enter your destination to get a shipping estimate.","請輸入您寄送地點以便估價"
+"My Account","我的帳戶"
+"Street Address","街道名"
+"Shipping Address","寄送地址"
+"Select a billing address from your address book or enter a new address.","請從您的地址簿中選一個收款地址或是輸入一個 <a href=""#"" onclick=""billing.newAddress(true); return false;"">新地址</a>."
+"Continue to Overview","繼續至總覽"
+"Please <a href=""%s"">continue shopping</a>.","請 <a href=""%s"">繼續購物</a>."
+"Edit Your Cart","編輯您的購物車"
+"You have no items in your cart.","您的購物車內無任何商品"
+"Easy access to your order history and status","輕鬆查詢您的訂單紀錄或是狀態"
+"Register and save time!","註冊並節省時間！"
+"Fast and easy check out","輕鬆又快速的結帳"
+"Use Billing Address","使用付款地址"
+"Add to Wishlist","增加到收藏"
+"My Cart - <a href=""%s"">%d item(s)</a>","我的購物車 <span class=""count"">- <a href=""%s"">%d 項</a></span>"
+"Move to Wishlist","搬移至購物車"
+"Default Shipping","預設寄送"
+"Checkout as a Guest or Register","以訪客方式結帳或是註冊"
+"Qty","數量"
+"Enter your coupon code if you have the one.","請輸入您的折價卷號碼"
+"Done","完成"
+"Close","關閉"
+"City","市"
+"Card Verification Number Visual Reference","信用卡認證碼"
+"First Name","名"
+"Unit Price","單價"
+"Please select region, state or province","請選擇地區，州或是省"
+"Product","商品"
+"Payment Method","付款方式"
+"Price","價格"
+"Street Address 2","街道名稱 2"
+"Address","地址"
+"Password","密碼"
+"Update Total","更新總價"
+"Change Shipping Address","變更寄送地址"
+"Email Address","電子郵件地址"
+"Edit","編輯"
+"Add to Cart","加入購物車"
+"Edit Items","編輯商品"
+"Remove","移除"
+"Continue","繼續"
+"Forgot an Item?","忘了一樣商品？"
+"Shopping Cart is Empty","購物車為空"
+"Login","登入"
+"Add New Address","加入新的地址"
+"Default Billing","預設付款"
+"Enter a New Address","輸入一個新的地址"
+"Checkout as Guest","已訪客方式結帳"
+"Discount Codes","折價碼"
+"Select State/Province...","選擇 州/省"
+"Continue to Review Your Order","繼續至審查您的訂單"
+"Your order has been received","您的訂單已收到"
