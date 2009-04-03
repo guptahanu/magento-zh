@@ -1,9 +1,9 @@
-# of Items vs. Destination,# of Items vs. Destination
-Price vs. Destination,Price vs. Destination
-Weight (and above),Weight (and above)
-Store Pickup,Store Pickup
-Invalid Table Rate code type: %s,Invalid Table Rate code type: %s
-# of Items (and above),# of Items (and above)
-Weight vs. Destination,Weight vs. Destination
-Invalid Table Rate code for type %s: %s,Invalid Table Rate code for type %s: %s
-Order Subtotal (and above),Order Subtotal (and above)
+"# of Items vs. Destination","商品數量 vs. 寄送地"
+"Price vs. Destination","價錢 vs. 寄送地"
+"Weight (and above)","重量 (及超過)"
+"Store Pickup","商店自取"
+"Invalid Table Rate code type: %s","無效的表格郵資率代碼種類 %s"
+"# of Items (and above)","商品數量 (及超過)"
+"Weight vs. Destination","重量 vs. 寄送地"
+"Invalid Table Rate code for type %s: %s","無效的表格郵資率代碼種類 %s: %s"
+"Order Subtotal (and above)","訂單小計 (及超過)"

@@ -1,20 +1,20 @@
-There was a problem with the un-subscription: %s,There was a problem with the un-subscription: %s
-Cannot delete subscriber,Cannot delete subscriber
-Cannot mark as received subscriber,Cannot mark as received subscriber
-You have been successfully unsubscribed,You have been successfully unsubscribed
-Duplicate of template code,Duplicate of template code
-There was an error while saving your subscription,There was an error while saving your subscription
-Your subscription was successfully confirmed,Your subscription was successfully confirmed
-Cannot delete template,Cannot delete template
-Confirmation request has been sent,Confirmation request has been sent
-Form was filled incorrectly,Form was filled incorrectly
-Thank you for your subscription,Thank you for your subscription
-The subscription was successfully saved,The subscription was successfully saved
-Invalid queue selected,Invalid queue selected
-Invalid subscription ID,Invalid subscription ID
-Invalid subscription confirmation code,Invalid subscription confirmation code
-Invalid subscriber ID,Invalid subscriber ID
-No subscribers selected,No subscribers selected
-There was a problem with the subscription: %s,There was a problem with the subscription: %s
-Cannot save your subscription: %s,Cannot save your subscription: %s
-Newsletter,Newsletter
+"There was a problem with the un-subscription: %s","取消訂閱失敗： %s"
+"Cannot delete subscriber","無法刪除訂閱帳戶"
+"Cannot mark as received subscriber","無法標記為已收到訂閱"
+"You have been successfully unsubscribed","您已成功取消訂閱"
+"Duplicate of template code","重複的模板代碼"
+"There was an error while saving your subscription","儲存您的訂閱中發生錯誤"
+"Your subscription was successfully confirmed","您的訂閱已確認"
+"Cannot delete template","無法刪除模板"
+"Confirmation request has been sent","確認要求已送出"
+"Form was filled incorrectly","表格填寫不正確"
+"Thank you for your subscription","感謝您的訂閱"
+"The subscription was successfully saved","訂閱已成功儲存"
+"Invalid queue selected","錯誤選擇佇列"
+"Invalid subscription ID","錯誤的訂閱 ID"
+"Invalid subscription confirmation code","錯誤的訂閱確認碼"
+"Invalid subscriber ID","錯誤的訂閱人 ID"
+"No subscribers selected","未選擇訂閱人"
+"There was a problem with the subscription: %s","訂閱發生錯誤： %s"
+"Cannot save your subscription: %s","無法儲存您的訂閱： %s"
+"Newsletter","電子報"
