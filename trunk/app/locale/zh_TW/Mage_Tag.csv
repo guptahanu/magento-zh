@@ -1,39 +1,39 @@
-You tag was successfully saved,You tag was successfully saved
-Your tag(s) have been submitted,Your tag(s) have been submitted
-List,List
-You tag was successfully deleted,You tag was successfully deleted
-"Unable to save your tag. Please, try again later.","Unable to save your tag. Please, try again later."
-Price,Price
-All Tags,All Tags
-Tag,Tag
-Unable to save tag(s),Unable to save tag(s)
-Thank you. Your tag has been accepted for moderation.,Thank you. Your tag has been accepted for moderation.
-"Unable to remove tag. Please, try again later.","Unable to remove tag. Please, try again later."
-Grid,Grid
-Products tagged with '%s',Products tagged with '%s'
-No matches found.,No matches found.
-Data integrity: No header row found for attribute,Data integrity: No header row found for attribute
-Name,Name
-View All Tags,View All Tags
-Other people marked this product with these tags:,Other people marked this product with these tags:
-Add Your Tags:,Add Your Tags:
-My Recent Tags,My Recent Tags
-Tags:,Tags:
-Are you sure you want to delete this tag?,Are you sure you want to delete this tag?
-Tag Name: %s,Tag Name: <strong>%s</strong>
-Unable to find any product tagged with '%s',Unable to find any product tagged with '%s'
-Products tagged with '%s' (<a href='%s'>RSS</a>),Products tagged with '%s' (<a href='%s'>RSS</a>)
-Save Tag,Save Tag
-Tags Aren't Available,Tags Aren't Available
-Use spaces to separate tags. Use single quotes (') for phrases.,Use spaces to separate tags. Use single quotes (') for phrases.
-Popular Tags,Popular Tags
-Add Tags,Add Tags
-Add to Cart,Add to Cart
-You have not tagged any products yet.,You have not tagged any products yet.
-Product Tags,Product Tags
-Add to Wishlist,Add to Wishlist
-Search Results for '%s' (<a href='%s'>RSS</a>),Search Results for '%s' (<a href='%s'>RSS</a>)
-My Tags,My Tags
-Click on a tag to view your corresponding products.,Click on a tag to view your corresponding products.
-Delete Tag,Delete Tag
-Edit Tag,Edit Tag
+"You tag was successfully saved","您的標籤已成功儲存"
+"Your tag(s) have been submitted","您的標籤已成功提交"
+"List","列表"
+"You tag was successfully deleted","您的標籤已成功刪除"
+"Unable to save your tag. Please, try again later.","無法儲存您的標籤，請稍後再試。"
+"Price","價格"
+"All Tags","所有標籤"
+"Tag","標籤"
+"Unable to save tag(s)","無法儲存標籤"
+"Thank you. Your tag has been accepted for moderation.","謝謝您。您的標籤已經被接受並等待審核。"
+"Unable to remove tag. Please, try again later.","無法移除標籤。請稍後再試。"
+"Grid","格"
+"Products tagged with '%s'","產品已經被標記為 '%s'"
+"No matches found.","找不到符合的。"
+"Data integrity: No header row found for attribute","資料一致性：屬性中找不到檔頭行"
+"Name","名稱"
+"View All Tags","查看所有標籤"
+"Other people marked this product with these tags:","其他的用戶標記此產品為："
+"Add Your Tags:","加入您的標籤："
+"My Recent Tags","我最近的標籤"
+"Tags:","標籤："
+"Are you sure you want to delete this tag?","你確定要刪除此標籤嗎？"
+"Tag Name: %s","標籤名稱： <strong>%s</strong>"
+"Unable to find any product tagged with '%s'","無法找到被 '%s' 標記的商品"
+"Products tagged with '%s' (<a href='%s'>RSS</a>)","產品已經被標記為 '%s' (<a href='%s'>RSS</a>)"
+"Save Tag","儲存標籤"
+"Tags Aren't Available","不能使用標籤"
+"Use spaces to separate tags. Use single quotes (') for phrases.","使用空白來分別標籤。 使用 (') 來添加詞組"
+"Popular Tags","熱門標籤"
+"Add Tags","增加標籤"
+"Add to Cart","加入至購物車"
+"You have not tagged any products yet.","您尚未標記任何產品"
+"Product Tags","商品標籤"
+"Add to Wishlist","加入至我的收藏"
+"Search Results for '%s' (<a href='%s'>RSS</a>)"," '%s' (<a href='%s'>RSS</a>) 的搜尋結果"
+"My Tags","我的標籤"
+"Click on a tag to view your corresponding products.","請按標籤來查看相關的商品"
+"Delete Tag","刪除標籤"
+"Edit Tag","編輯標籤"

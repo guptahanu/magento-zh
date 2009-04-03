@@ -1,46 +1,46 @@
-"Welcome to the Magento Demo Store!","Welcome to the Magento Demo Store!"
-"Welcome, %s!","Welcome, %s!"
-"Next Page","Next Page"
-"Show","Show"
-"Report All Bugs","Report All Bugs"
-"Close Window","Close Window"
-"per page","per page"
-"(ver. %s)","(ver. %s)"
-"Magento&trade; is a registered Trademark of Irubin Consulting Inc. DBA Varien. &copy; Copyright 2007","Magento&trade; is a registered Trademark of Irubin Consulting Inc. DBA Varien. &copy; Copyright 2007"
-"Magento Commerce Demo Store","Magento Commerce Demo Store"
-"Skip to Main Content","Skip to Main Content"
-"Previous Page","Previous Page"
-"Items %s to %s of %s total","Items <strong>%s</strong> to <strong>%s</strong> of <strong>%s</strong> total"
-"%s Item(s)","%s Item(s)"
-"Help Us to Keep Magento Healthy","Help Us to Keep Magento Healthy"
-"Page:","Page:"
-"This is a demo store. Any orders placed through this store will not be honored or fulfilled.","This is a demo store. Any orders placed through this store will not be honored or fulfilled."
-"You're currently on:","You're currently on:"
-"Please select an option.","Please select an option."
-"This is a required field.","This is a required field."
-"Please enter a valid number in this field.","Please enter a valid number in this field."
-"Please use numbers only in this field. please avoid spaces or other characters such as dots or commas.","Please use numbers only in this field. please avoid spaces or other characters such as dots or commas."
-"Please use letters only (a-z) in this field.","Please use letters only (a-z) in this field."
-"Please use in this field only "a-z,0-9,_".","Please use in this field only "a-z,0-9,_"."
-"Please use only letters (a-z) or numbers (0-9) only in this field. No spaces or other characters are allowed.","Please use only letters (a-z) or numbers (0-9) only in this field. No spaces or other characters are allowed."
-"Please use only letters (a-z) or numbers (0-9) or spaces and # only in this field.","Please use only letters (a-z) or numbers (0-9) or spaces and # only in this field."
-"Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.","Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890."
-"Please enter a valid date.","Please enter a valid date."
-"Please enter a valid email address. For example johndoe@domain.com.","Please enter a valid email address. For example johndoe@domain.com."
-"Please enter 6 or more characters.","Please enter 6 or more characters."
-"Please make sure your passwords match.","Please make sure your passwords match."
-"Please enter a valid URL. http:// is required","Please enter a valid URL. http:// is required"
-"Please enter a valid URL. For example http://www.example.com or www.example.com","Please enter a valid URL. For example http://www.example.com or www.example.com"
-"Please enter a valid social security number. For example 123-45-6789.","Please enter a valid social security number. For example 123-45-6789."
-"Please enter a valid zip code. For example 90602 or 90602-1234.","Please enter a valid zip code. For example 90602 or 90602-1234."
-"Please enter a valid zip code.","Please enter a valid zip code."
-"Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006.","Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006."
-"Please enter a valid $ amount. For example $100.00.","Please enter a valid $ amount. For example $100.00."
-"Please select one of the above options.","Please select one of the above options."
-"Please select one of the options.","Please select one of the options."
-"Please enter a valid number in this field.","Please enter a valid number in this field."
-"Please select State/Province.","Please select State/Province."
-"Please enter valid password.","Please enter valid password."
-"Please enter a number greater than 0 in this field.","Please enter a number greater than 0 in this field."
-"Please enter a valid credit card number.","Please enter a valid credit card number."
-"Please wait, loading...","Please wait, loading..."
+"Welcome to the Magento Demo Store!","歡迎進入 Magento 展示商店！",,,,
+"Welcome, %s!","您好, %s!",,,,
+"Next Page","下一頁",,,,
+"Show","顯示",,,,
+"Report All Bugs","回報所有問題",,,,
+"Close Window","關閉視窗",,,,
+"per page","每頁",,,,
+"(ver. %s)","(ver. %s)",,,,
+"Magento&trade; is a registered Trademark of Irubin Consulting Inc. DBA Varien. &copy; Copyright 2007","Magento&trade; 是 Irubin Consulting Inc. DBA Varien. 的註冊商標。 &copy; Copyright 2007",,,,
+"Magento Commerce Demo Store","Magento 商務展示商店",,,,
+"Skip to Main Content","跳至主內容",,,,
+"Previous Page","上一頁",,,,
+"Items %s to %s of %s total","商品 <strong>%s</strong> 至 <strong>%s</strong>，共 <strong>%s</strong> 件",,,,
+"%s Item(s)","%s 商品",,,,
+"Help Us to Keep Magento Healthy","幫我們維護 Magento",,,,
+"Page:","頁面：",,,,
+"This is a demo store. Any orders placed through this store will not be honored or fulfilled.","這是一個展示商店。所有訂購的訂單將不會被處理。",,,,
+"You're currently on:","您目前在：",,,,
+"Please select an option.","請選擇一個選項。",,,,
+"This is a required field.","這是一個必填欄位。",,,,
+"Please enter a valid number in this field.","請在此欄位輸入一個有效的號碼。",,,,
+"Please use numbers only in this field. please avoid spaces or other characters such as dots or commas.","您只能在此欄位輸入數字，另避免輸入空白或是其他字元（例：句號或是逗號）。",,,,
+"Please use letters only (a-z) in this field.","請於此欄輸入英文字 (a-z) 。",,,,
+"Please use in this field only a-z","0-9","_"".""","Please use in this field only a-z","0-9","_""."""
+"Please use only letters (a-z) or numbers (0-9) only in this field. No spaces or other characters are allowed.","您只能在此欄填寫英文 (a-z) 或號碼 (0-9) 。空白或其他字元無效。",,,,
+"Please use only letters (a-z) or numbers (0-9) or spaces and # only in this field.","您只能在此欄填寫英文 (a-z) ，號碼 (0-9)，空格和 #。",,,,
+"Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.","請輸入一個有效的電話號碼。 例如 (123) 456-7890 或 123-456-7890.",,,,
+"Please enter a valid date.","請輸入一個有效的日期。",,,,
+"Please enter a valid email address. For example johndoe@domain.com.","請輸入一個有效的電子郵件。 例如： johndoe@domain.com.",,,,
+"Please enter 6 or more characters.","請輸入 6 個或更多的字元",,,,
+"Please make sure your passwords match.","請確定您的密碼一致",,,,
+"Please enter a valid URL. http:// is required","請輸入一個有效的 URL. 必須為 http:// 開始 ",,,,
+"Please enter a valid URL. For example http://www.example.com or www.example.com","請輸入一個有效的 URL。 例如 http://www.example.com 或 www.example.com",,,,
+"Please enter a valid social security number. For example 123-45-6789.","請輸入一個有效的社會安全號碼。 例如： 123-45-6789.",,,,
+"Please enter a valid zip code. For example 90602 or 90602-1234.","請輸入一個有效的郵遞區號。 例如： 90602 或 90602-1234.",,,,
+"Please enter a valid zip code.","請輸入一個有效的郵遞區號。",,,,
+"Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006.","請使用指定的日期格式： 日/月/年。 例如： 17/03/2006 為 2006 年 3 月 17 號。",,,,
+"Please enter a valid $ amount. For example $100.00.","請輸入一個有效的 $ 數目。例如： $100.00",,,,
+"Please select one of the above options.","請選擇一個上面的選項。",,,,
+"Please select one of the options.","請選擇其中的一個選項。",,,,
+"Please enter a valid number in this field.","請在此欄輸入一個有效的數字。",,,,
+"Please select State/Province.","請選擇 州/省。",,,,
+"Please enter valid password.","請輸入一個有效的密碼。",,,,
+"Please enter a number greater than 0 in this field.","請輸入一個大於 0 的數字。",,,,
+"Please enter a valid credit card number.","請輸入一個有效的信用卡號碼。",,,,
+"Please wait, loading...","請稍後，讀取中....",,,,
