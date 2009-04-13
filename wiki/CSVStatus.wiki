@@ -17,23 +17,23 @@
   1884 Mage_Eav.csv         Assigned to rogerger.py  progress: 100%
     38 Mage_Giftcert.csv    Assigned to rogerger.py  progress: 100%
     36 Mage_GoogleCheckout.csv   Assigned to rogerger.py  progress: 100%
-  3619 Mage_Install.csv       Assigned to rogerger.py progress: 50%
-  1324 Mage_Newsletter.csv
-  4075 Mage_Page.csv
-   722 Mage_Payment.csv
-  1518 Mage_Paypal.csv
-   192 Mage_Poll.csv
-   134 Mage_Rating.csv
-  2015 Mage_Review.csv
-   762 Mage_Rule.csv
-  2798 Mage_Sales.csv
-   792 Mage_SalesRule.csv
-   418 Mage_SearchLucene.csv
-   463 Mage_Shipping.csv
-  2000 Mage_Tag.csv
-    80 Mage_Tax.csv
+  3619 Mage_Install.csv       Assigned to rogerger.py  progress: 100%
+  1324 Mage_Newsletter.csv   Assigned to rogerger.py  progress: 100%
+  4075 Mage_Page.csv         Assigned to rogerger.py  progress: 100%
+   722 Mage_Payment.csv      Assigned to rogerger.py  progress: 100%
+  1518 Mage_Paypal.csv       Assigned to rogerger.py  progress: 100%
+   192 Mage_Poll.csv         Assigned to rogerger.py  progress: 100%
+   134 Mage_Rating.csv       Assigned to rogerger.py  progress: 100%
+  2015 Mage_Review.csv       Assigned to rogerger.py  progress: 100%
+   762 Mage_Rule.csv         Assigned to rogerger.py  progress: 100%
+  2798 Mage_Sales.csv        Assigned to rogerger.py  progress: 100%
+   792 Mage_SalesRule.csv    Assigned to rogerger.py  progress: 100%
+   418 Mage_SearchLucene.csv   Assigned to rogerger.py  progress: 100%
+   463 Mage_Shipping.csv     Assigned to rogerger.py  progress: 100%
+  2000 Mage_Tag.csv    Assigned to rogerger.py  progress: 100%
+    80 Mage_Tax.csv    Assigned to rogerger.py  progress: 100%
   3640 Mage_Usa.csv
-  1703 Mage_Wishlist.csv
+  1703 Mage_Wishlist.csv    Assigned to rogerger.py  progress: 100%
 }}}
 
 [http://code.google.com/p/magento-zh/source/browse/#svn/trunk/app/locale/zh_TW Browse CSV]
