@@ -1,0 +1,33 @@
+Magento Traditional Chinese Translation Project
+
+Project begins： 02/24/09 Using Magento version: 1.2.x
+
+Currently there are two different [translation methods](http://www.magentocommerce.com/langs/list/?locale_id=29&theme=1&version=12&show=Submit):
+
+1.inline
+
+2.string
+
+We are using the second method (CSV).
+
+Welcome everyone to join the project.
+
+## How do I join the project? ##
+
+Before we start,
+
+Do you know how to use SVN and also have an Google account?
+
+**If your answer is yes:**
+
+Please send an email to the [project manager](mailto:rogerger.py@gmail.com) requesting to be a svn member. In the email, please include your Google account name. You will receive a password to access the project repo.
+
+To checkout out the repo:
+
+> svn co --username <your googlecode account> https://magento-zh.googlecode.com/svn/trunk <target directory>
+
+You will be prompted to enter the project password
+
+**If your answer is no:**
+
+Please send an email to the project manager requesting to be a csv member. Please check out the [wiki page](http://code.google.com/p/magento-zh/wiki/CSVStatus) for the csv files we are currently working on:

@@ -1,0 +1,39 @@
+# Current CSV files #
+
+```
+ 44127 Mage_Adminhtml.csv Assigned to rogerger.py   progress:80%
+   332 Mage_Backup.csv     Assigned to rogerger.py   progress:100%
+  4327 Mage_Catalog.csv Assigned to ellen progress:100%
+   608 Mage_CatalogRule.csv  Assigned to rogerger.py progress 100%
+   530 Mage_CatalogSearch.csv  Assigned to rogerger.py progress 100%
+  8186 Mage_Checkout.csv   Assigned to rogerger.py progress 100%
+   124 Mage_Cms.csv        Assigned to rogerger.py progress 50%
+  1954 Mage_Core.csv       Assigned to rogerger.py progress 100%
+  8538 Mage_Customer.csv Assigned to rogerger.py   progress:95%
+   124 Mage_Datafeed.csv    Assigned to rogerger.py  progress: 100%
+   362 Mage_Directory.csv   Assigned to rogerger.py  progress: 100%
+  1884 Mage_Eav.csv         Assigned to rogerger.py  progress: 100%
+    38 Mage_Giftcert.csv    Assigned to rogerger.py  progress: 100%
+    36 Mage_GoogleCheckout.csv   Assigned to rogerger.py  progress: 100%
+  3619 Mage_Install.csv       Assigned to rogerger.py  progress: 100%
+  1324 Mage_Newsletter.csv   Assigned to rogerger.py  progress: 100%
+  4075 Mage_Page.csv         Assigned to rogerger.py  progress: 100%
+   722 Mage_Payment.csv      Assigned to rogerger.py  progress: 100%
+  1518 Mage_Paypal.csv       Assigned to rogerger.py  progress: 100%
+   192 Mage_Poll.csv         Assigned to rogerger.py  progress: 100%
+   134 Mage_Rating.csv       Assigned to rogerger.py  progress: 100%
+  2015 Mage_Review.csv       Assigned to rogerger.py  progress: 100%
+   762 Mage_Rule.csv         Assigned to rogerger.py  progress: 100%
+  2798 Mage_Sales.csv        Assigned to rogerger.py  progress: 100%
+   792 Mage_SalesRule.csv    Assigned to rogerger.py  progress: 100%
+   418 Mage_SearchLucene.csv   Assigned to rogerger.py  progress: 100%
+   463 Mage_Shipping.csv     Assigned to rogerger.py  progress: 100%
+  2000 Mage_Tag.csv    Assigned to rogerger.py  progress: 100%
+    80 Mage_Tax.csv    Assigned to rogerger.py  progress: 100%
+  3640 Mage_Usa.csv
+  1703 Mage_Wishlist.csv    Assigned to rogerger.py  progress: 100%
+```
+
+[Browse CSV](http://code.google.com/p/magento-zh/source/browse/#svn/trunk/app/locale/zh_TW)
+
+NOTE: If you use MS Excel to open these files(in UTF-8 Format), you will need to create an new spreadsheet and do a data input. (set the format to delimited and comma separated)
